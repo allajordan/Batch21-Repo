@@ -3,5 +3,6 @@ more stuff has been added
 we are cloning
 remore to local
 making some changing
-pushing back to 
+pushing back to
 remote repository
+more
